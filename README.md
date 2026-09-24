@@ -43,16 +43,16 @@ Menyajikan informasi hasil tracer alumni untuk melihat kondisi dan perkembangan 
 ## Dashboard Preview
 
 ### Beranda
-![Page Beranda - SMAN 4 Bangkalan](Page%20Beranda%20-%20SMAN%204%20Bangkalan.png)
+![Page Beranda - SMAN 4 Bangkalan](./Page%20Beranda%20-%20SMAN%204%20Bangkalan.PNG)
 
 ### Nilai Akademik
-![Dashboard Akademik - SMAN 4 Bangkalan](Dashboard%20Akademik%20-%20SMAN%204%20Bangkalan.png)
+![Dashboard Akademik - SMAN 4 Bangkalan](./Dashboard%20Akademik%20-%20SMAN%204%20Bangkalan.PNG)
 
 ### Ekstrakurikuler
-![Dashboard Ekskul - SMAN 4 Bangkalan](Dashboard%20Ekskul%20-%20SMAN%204%20Bangkalan.png)
+![Dashboard Ekskul - SMAN 4 Bangkalan](./Dashboard%20Ekskul%20-%20SMAN%204%20Bangkalan.PNG)
 
 ### Tracer Alumni
-![Dashboard Alumni - SMAN 4 Bangkalan](Dashboard%20Alumni%20-%20SMAN%204%20Bangkalan.png)
+![Dashboard Alumni - SMAN 4 Bangkalan](./Dashboard%20Alumni%20-%20SMAN%204%20Bangkalan.PNG)
 
 ## Project Information
 
