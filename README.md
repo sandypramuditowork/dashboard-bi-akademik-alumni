@@ -52,7 +52,7 @@ Menyajikan informasi hasil tracer alumni untuk melihat kondisi dan perkembangan 
 ![Dashboard Ekskul - SMAN 4 Bangkalan](./Dashboard%20Ekskul%20-%20SMAN%204%20Bangkalan.PNG)
 
 ### Tracer Alumni
-![Dashboard Alumni - SMAN 4 Bangkalan](./Dashboard%20Alumni%20-%20SMAN%204%20Bangkalan.PNG)
+![Dashboard Alumni - SMAN 4 Bangkalan](./Dashboard%20Alumni%20-SMAN%204%20Bangkalan.PNG)
 
 ## Project Information
 
